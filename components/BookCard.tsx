@@ -18,12 +18,13 @@ const cardStyle = {
   width: "200px",
   padding: "1rem",
   borderRadius: "5px",
-  backgroundColor: "#f8eadd",
+  backgroundColor: "#d3e298",
   boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.1)",
   cursor: "pointer",
   transition: "transform 0.3s ease",
   marginBottom: "1.5rem",
   marginRight: "1.6rem",
+  
 };
 const imageStyle = {
   width: "100%",
@@ -32,6 +33,7 @@ const imageStyle = {
 };
 const contentStyle = {
   marginTop: "1rem",
+  color: "white",
 };
 const titleStyle = {
   fontSize: "1.2rem",
@@ -40,5 +42,5 @@ const titleStyle = {
 };
 const descriptionStyle = {
   fontSize: "0.8rem",
-  color: "#888",
+  color: "#000",
 };

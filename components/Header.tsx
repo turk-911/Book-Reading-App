@@ -10,7 +10,7 @@ export default function Header() {
         initial={{ opacity: 0, x: -100 }}
         animate={{ opacity: 1, x: 0 }}
       >
-        <h1 style={bookTitleStyle}>Book App</h1>
+        <h1 style={bookTitleStyle}>Read Nest</h1>
         <motion.input
           type="text"
           placeholder="What you wanna read today?.."
